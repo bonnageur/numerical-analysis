@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3 
 
 # bin() and hex() functions in python only take integer
 # modify to able to input float
