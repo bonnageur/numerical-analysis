@@ -1,5 +1,5 @@
 // convert decimal to binary in C programming language
-// input in any form: int, float, or fraction in a/b form
+// input in any form: int, float, or fraction in a/b form 
 
 #include <stdio.h>
 #include <stdlib.h>
