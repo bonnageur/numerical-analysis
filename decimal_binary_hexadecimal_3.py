@@ -2,7 +2,7 @@
 
 # convert decimal to binary and hexadecimal: float input and float output available 
 # since bin(), hex() functions in python doesn't take float, write customized functions 
-# to convert decimal to bin and hex.
+# to convert decimal to bin and hex. 
 
 def float_to_binary(decimal_num):
     binary_representation = bin(int(decimal_num))[2:]
