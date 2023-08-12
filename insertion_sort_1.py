@@ -1,6 +1,9 @@
 #!/usr/bin/env python3.11
 
-# Algorithm Fourth Edition Exercise 2-1
+# Thomas H. Cormen, Charles E. Leiserson, Ronadl L. Rivest, Clifford Stein
+# Introduction to Algorithm, Fourth Edition, 2022
+# we weill call this book as just the Algorithm book from now on.
+# Exercise 2-1
 # insertion sort
 # array = [31, 41, 59, 26, 41, 58]
 
